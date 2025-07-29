@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Adaptive Autosar Safety pPatform <br>💬 Ask me about my experience wit PTP ⏱️<br>⚡ Fun fact about me is that I can both squeeze 60 minute into 45 minutes or extend it to 1 hour and 15 minutes depending on how much time I have left. 
+🔭 I'm currently working on Adaptive Autosar Safety Platform. My to secret project include working with precise time.<br>💬 Ask me about my experience wit PTP ⏱️<br>⚡ Fun fact about me is that I can both squeeze 60 minute into 45 minutes or extend it to 1 hour and 15 minutes depending on how much time I have left. 
 
 
 ## 🌐 Socials:
